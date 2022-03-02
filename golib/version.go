@@ -1,7 +1,8 @@
 package golib
 
 type VersionDes struct {
-	Ver int
-	Url string
-	Des []string
+	Ver     int
+	VerName string
+	Url     string
+	Des     []string
 }
