@@ -12,5 +12,5 @@ func main() {
 	fmt.Println(string(result))
 
 	str := fmt.Sprintf("%s%s%s", golib.VersionSplit, result, golib.VersionSplit)
-	_ = ioutil.WriteFile("version.md", []byte(str), 0644)
+	_ = ioutil.WriteFile("version.js", []byte(str), 0644)
 }
