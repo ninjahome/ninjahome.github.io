@@ -1,1 +1,1 @@
-android_apk_version=3.2.7
+android_apk_version=03.02.07
