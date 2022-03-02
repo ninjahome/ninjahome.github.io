@@ -1,1 +1,1 @@
-android_apk_version=03.02.07
+=android_apk_version={"Ver":30201,"Des":["1.增加转账功能","2.增加名片功能"]}=android_apk_version=
