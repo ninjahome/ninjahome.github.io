@@ -2,8 +2,10 @@
 
 ![Image](download.png)
 
-##[安卓下载](https://dl.testfairy.com/download/74W3CDHG60RJTC1D82NKRPC60FPAFHT8N9AYAE2D87ZMWQ40/ninja_3.2.00-testfairy.apk)
-##[苹果下载](https://testflight.apple.com/join/2EccEH6p)
+## [安卓下载](https://dl.testfairy.com/download/74W3CDHG60RJTC1D82NKRPC60FPAFHT8N9AYAE2D87ZMWQ40/ninja_3.2.00-testfairy.apk)
+
+## [苹果下载](https://testflight.apple.com/join/2EccEH6p)
+
 [版本号](version.md)
 
 ### Markdown
