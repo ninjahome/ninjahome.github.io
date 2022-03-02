@@ -1,1 +1,1 @@
-{"Ver":30201,"Url":"https://dl.testfairy.com/download/74W3CDHG60RJTC1D82NKRPC60FPAFHT8N9AYAE2D87ZMWQ40/ninja_3.2.00-testfairy.apk","Des":["1.增加转账功能","2.增加名片功能"]}
+{"Ver":30201,"Url":"https://ninjahome.github.io/ninja.apk","Des":["1.增加转账功能","2.增加名片功能"]}
