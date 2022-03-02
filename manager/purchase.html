@@ -4,29 +4,19 @@
 <head>
     <meta charset="UTF-8" />
     <link rel="shortcut icon" href="../favicon.ico" />
-    <title>Ninja Dapp</title>
+    <title>Ninja DApp</title>
     <meta
             name="viewport"
             content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1"
     />
-    <meta http-equiv="refresh" content="0;URL='/'"></meta>
+    <meta http-equiv="refresh" content="0;URL='/'">
     <script>
-        sessionStorage.redirect = location.href;
 
-        if(sessionStorage.redirect){
-            var _url = new URL(sessionStorage.redirect)
-            console.log('>>>>>>>>>>>>>>',_url.pathname)
-            if(!/^\/(index|download)(.html)?$/.test(_url.pathname)){
-                sessionStorage.redirect = location.href
-            }
-        }else {
-            sessionStorage.redirect = location.href
-        }
     </script>
 </head>
 <style>
     body {
-        margin: 0px;
+        margin: 0;
     }
     .gp-404 {
         height: 100vh;
@@ -35,8 +25,6 @@
         width: 100%;
         justify-content: flex-end;
         align-items: center;
-        /* background: url('assets/images/bgc.png'); */
-        /* background-size: cover; */
     }
 
     div.inner {
