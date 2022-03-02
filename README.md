@@ -8,7 +8,7 @@
 
 [APK 文件](ninja.apk)
 
-[版本号](version.md)
+[版本号](version.js)
 
 ### Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
