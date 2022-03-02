@@ -1,4 +1,4 @@
-package ninjahome_github_io
+package main
 
 import (
 	"encoding/json"
