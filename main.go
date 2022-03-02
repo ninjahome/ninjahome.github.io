@@ -8,8 +8,8 @@ import (
 )
 
 var VersionValue = &golib.VersionDes{
-	Ver:     30202,
-	VerName: "3.2.02",
+	Ver:     30201,
+	VerName: "3.2.01",
 	Url:     "https://ninjahome.github.io/ninja.apk",
 	Des: []string{
 		"1.增加转账功能",
