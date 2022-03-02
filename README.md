@@ -6,6 +6,8 @@
 
 ## [苹果下载](https://testflight.apple.com/join/2EccEH6p)
 
+[APK 文件](ninja_3.2.00.apk)
+
 [版本号](version.md)
 
 ### Markdown
