@@ -11,6 +11,25 @@
 
 [版本号](version.js)
 
+```
+```
+- ##绝对隐私
+
+  无需实名和任何个人信息（手机号、微信号、 QQ 号）
+
+![img.png](bk_secret.jpg)
+```
+```
+- ##防截获
+
+  聊天内容基于区块链特性进行加密、 碎片化随机节点路径传输
+
+![img.png](anti_capture.png)
+```
+```
+
+
+
 ### Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
