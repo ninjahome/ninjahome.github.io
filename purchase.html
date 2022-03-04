@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width">
+  <title>Document</title>
+  <link rel="stylesheet" href="style.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+  <div class="purchase-wrap">
+    <div class="bg"></div>
+     <!-- 导航 -->
+     <nav class="navigation-bar">
+     <div class="wrap">
+      <h1 class="logo-box">
+        <img src="logo.png" width="60" height="60" alt="ninja-logo">
+        <span>Ninja</span>
+      </h1>
+      <button class="btn-guide">使用手册</button>
+    </div>
+    </nav>
+    <!-- 标题 -->
+    <h2 class="title-bar">申请License</h2>
+    <!-- 表格 -->
+    <form class="form-box">
+      <div class="table-bar">
+        <label>
+          <span class="lf">当前账户余额</span>
+          <p class="rg">
+            NCC
+            <em>419949917.50</em>
+            ETH
+            <em>0.0991</em>
+          </p>
+        </label>
+        <label>
+          <span class="lf">选择订购周期</span>
+          <select class="rg">
+            <option value="1年" selected>1年</option>
+            <option value="2年">2年</option>
+            <option value="3年">3年</option>
+          </select>
+        </label>
+        <label>
+          <span class="lf">
+            <em>*</em>
+            购买天数
+          </span>
+          <div class="rg">
+            <input type="text">
+            <em>0.10&nbsp;NNC/Day</em>
+          </div>
+        </label>
+        <label>
+          <span class="lf">
+            <em>*</em>
+            用户ID
+          </span>
+          <textarea class="rg" cols="150" rows="3" maxlength="200"></textarea>
+        </label>
+      </div>
+      <p class="count-bar">合计花费<span>3</span>NCC</p>
+      <div class="btn-bar">
+        <a href="javascript:void(0);" class="btn-submit">提交</a>
+        <a class="btn-return" href="./">返回</a>
+      </div>
+    </form>
+    <div class="search-bar">
+      <span>查询用户有效期</span>
+      <input type="text" autofocus="autofocus">
+      <button><i class="fa fa-search"></i></button>
+    </div>
+  </div>
+</body>
+</html>
