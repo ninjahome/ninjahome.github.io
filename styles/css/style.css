@@ -5,7 +5,7 @@
   bottom: 0;
   z-index: -99;
   position: fixed;
-  background: url(./bg.jpg) no-repeat;
+  background: url(../../bg.jpg) no-repeat;
   background-size: cover;
 }
 
@@ -238,7 +238,7 @@ a {
 
 .ninja-wrap .slogan-bar {
   max-width: calc(100% - 40px);
-  background: url(./slogan-bg.jpg) no-repeat;
+  background: url(../../slogan-bg.jpg) no-repeat;
   background-size: cover;
   padding: 50px 0;
   text-align: center;
