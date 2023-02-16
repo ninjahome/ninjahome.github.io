@@ -507,3 +507,10 @@ a {
 input:focus-visible {
   outline: none;
 }
+
+.nostr {
+  width: 1400;
+  margin: 0 auto;
+  padding: 0 20px;
+ 
+}
