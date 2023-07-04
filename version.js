@@ -1,1 +1,2 @@
-{"Ver":30308,"VerName":"3.3.8","Url":"https://ninjahome.github.io/ninja.apk","Des":["1.优化app"]}
+{"Ver":30308,"VerName":"3.3.8","Url":"https://ninjahome.github.io/ninja.apk","Des":["1.优化app"],
+"DessageVer":10001,"DessageVerName":"1.0.1","DessageUrl":"https://ninjahome.github.io/dessage.apk","DessageDes":["1.优化app"]}
